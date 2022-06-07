@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @xSatori 
 - 👀 I’m interested in crypto and web3.
 - 🌱 I’m just beginning to learn to code.
-- 📫 How to reach me: @0xSatori on Twitter | Satori#3511 on Discord
+- 📫 How to reach me: @0xSatori on Twitter | Satori#1337 on Discord
 
 <!---
 xSatori/xSatori is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
