@@ -1,4 +1,4 @@
-Contact me: @0xSatori Twitter | Satori#1337 Discord
+Contact me: Twitter @0xSatori | Discord Satori#1337
 
 <!---
 xSatori/xSatori is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
