@@ -1,1 +1,1 @@
-Contact me: Twitter @0xSatori | Farcaster 0xSatori | Discord 0xSatori
+Contact me: Twitter/Farcaster/Discord @0xSatori
